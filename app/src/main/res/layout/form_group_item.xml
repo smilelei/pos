@@ -1,0 +1,8 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/group_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ex_group_bg_color"
+    android:padding="@dimen/window_padding"
+    android:textColor="@color/title_text_color"
+    android:textSize="@dimen/list_text_size" />

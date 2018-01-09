@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <drawable name="color_pressed">#f7ba29</drawable>
+    <drawable name="color_focused">#ef9621</drawable>
+    <drawable name="color_normal1">#f0f0f0</drawable>
+    <drawable name="color_normal2">#ffffff</drawable>
+    <drawable name="ex_group_color_normal">#b1bac3</drawable>
+
+</resources>

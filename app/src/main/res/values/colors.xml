@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="title_text_color">#fff</color>
+    <color name="content_bg_color">#fff</color>
+    <color name="content_text_color">#333</color>
+    <color name="dialog_text_color">#fff</color>
+    <color name="lab_text_color">#000</color>
+    
+
+</resources>

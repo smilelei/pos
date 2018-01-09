@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PosPatrol</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="login">登陆</string>
+    <string name="config">配置</string>
+    <string name="username">用户名:</string>
+    <string name="username_hint">请输入用户名</string>
+    <string name="password">密　码:</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="ip">IP地址:</string>
+    <string name="ip_demo">格式如:http://192.168.1.1:8080/server</string>
+    <string name="save">保存</string>
+    <string name="location">定位</string>
+    <string name="back">返回</string>
+    <string name="refresh">刷新</string>
+    <string name="location_info">正在定位，请稍等...</string>
+    <string name="pos_list">终端列表</string>
+    <string name="next">下一步</string>
+    <string name="loaddata_err">数据加载异常，请检查网络设置！</string>
+    <string name="confirm">确定</string>
+    <string name="camer">拍摄照片</string>
+    <string name="submit">提交</string>
+    <string name="subinfo">提交成功，请选择操作</string>
+    <string name="exit">退出程序</string>
+    <string name="back_list">返回列表</string>
+    <string name="sub_success">提交成功</string>
+    <string name="toast_login">账号或密码为空</string>
+</resources>
